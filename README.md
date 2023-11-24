@@ -29,7 +29,7 @@ There is only one link that I used to see what kind of semantic the HTML needed.
 But on the same hand I got few tips from watching this video for a couple day:
 - https://www.youtube.com/watch?v=G3e-cpL7ofc&t=12856s
 
-## License :office:
+## License :memo:
 ---
 ---
 MIT License
