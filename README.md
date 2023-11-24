@@ -1,6 +1,4 @@
-# Refactoring
-
-# Challenge 01
+# Refactoring / Challenge 01
 
 ## Description
 
