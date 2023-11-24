@@ -14,6 +14,7 @@ You are able to see my project in two different ways, depending on what you are 
 
 ## Usage
 If you are unable to open the URL, I attached a screenshot of it below:
+
     ![This is a screenshot of how the website looks.](Assets/01-html-css-git-homework-demo.png)
 
 As you can see, there is a little menu on the top-right of the website, so you can click any of them and it will take you to the respective section.
@@ -50,4 +51,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+---
 ---
