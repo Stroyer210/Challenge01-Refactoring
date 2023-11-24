@@ -1,4 +1,5 @@
-# Refactoring / Challenge 01 ![Static Badge](https://img.shields.io/badge/HTML-%23E86B20?style=for-the-badge&logo=html5&labelColor=black)
+# Refactoring / Challenge 01 
+![Static Badge](https://img.shields.io/badge/HTML-%23E86B20?style=for-the-badge&logo=html5&labelColor=black)
 
 
 ## Description  :bookmark_tabs:
