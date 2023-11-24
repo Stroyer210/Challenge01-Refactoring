@@ -1,24 +1,24 @@
 # Refactoring / Challenge 01
 
-## Description :computer:
+## Description :page_with_curl
 
 This was a really good project because it helped me to realize what things could be wrong when coding, such as the repetitive codes and the lack of semantic HTML elements which are very important.
 Undoubtedly one of the reasons why I did build this project is because I wanted to see how many errors a small website could have and how to fix them, of course. In addition, one of the problems that it solves is that I could fix some incorrect tags and long lines of code when unnecessary. And the most important of all, I learned to double check my code and make sure that everything looks easy to read and understandable.
 
-## Installation
+## Installation :computer:
 
 You are able to see my project in two different ways, depending on what you are looking for:
 
  1. If you only want to see the deployed website, you can go to this URL: https://stroyer210.github.io/Challenge01-Refactoring/
  2. If you want to see my code, you have my repository's folder on top, plus all the documents, such HTML, CSS and images.
 
-## Usage
+## Usage :bar_chart:
 If you are unable to open the URL, I attached a screenshot of it below:
     ![This is a screenshot of how the website looks.](Assets/01-html-css-git-homework-demo.png)
 
 As you can see, there is a little menu on the top-right of the website, so you can click any of them and it will take you to the respective section.
 
-## Credits
+## Credits :email:
 
 There is only one link that I used to see what kind of semantic the HTML needed.
  - https://www.w3schools.com/html/html5_semantic_elements.asp
@@ -26,7 +26,7 @@ There is only one link that I used to see what kind of semantic the HTML needed.
 But on the same hand I got few tips from watching this video for a couple day:
 - https://www.youtube.com/watch?v=G3e-cpL7ofc&t=12856s
 
-## License
+## License :office:
 ---
 ---
 MIT License
