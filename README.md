@@ -9,8 +9,8 @@ Undoubtedly one of the reasons why I did build this project is because I wanted 
 
 You are able to see my project in two different ways, depending on what you are looking for:
 
- 1. If you only want to see the deployed website, you can go to this URL: https://stroyer210.github.io/Challenge01-Refactoring/
- 2. If you want to see my code, you have my repository's folder on top, plus all the documents, such HTML, CSS and images.
+ :one: If you only want to see the deployed website, you can go to this URL: https://stroyer210.github.io/Challenge01-Refactoring/
+ :two: If you want to see my code, you have my repository's folder on top, plus all the documents, such HTML, CSS and images.
 
 ## Usage :bar_chart:
 If you are unable to open the URL, I attached a screenshot of it below:
