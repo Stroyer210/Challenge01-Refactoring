@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This was a really good project because it helped me to realize what things could be wrong when coding, such as the repetitive codes and the lack of semantic HTML elements which are very important.
 Undoubtedly one of the reasons why I did build this project is because I wanted to see how many errors a small website could have and how to fix them, of course. In addition, one of the problems that it solves is that I could fix some incorrect tags and long lines of code when unnecessary. And the most important of all, I learned to double check my code and make sure that everything looks easy to read and understandable.
 
